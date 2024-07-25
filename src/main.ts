@@ -6,7 +6,7 @@ import { VueFire, VueFireAuth } from 'vuefire'
 
 import App from './App.vue';
 import router from './router';
-import { firebaseApp } from './composables/firebase'
+import { firebaseApp } from './composables/firebase';
 
 const app = createApp(App);
 
