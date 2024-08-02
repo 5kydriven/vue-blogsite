@@ -40,7 +40,7 @@ onBeforeMount(() => {
     </aside>
     <main>
       <div>
-        
+        hello
       </div>
     </main>
   </div>
